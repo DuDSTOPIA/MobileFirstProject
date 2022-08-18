@@ -69,6 +69,10 @@
     display: none;
 }
 
+.opcoes__item {
+    display: none;
+}
+
 
 
 @media screen and (min-width: 1024px) {
